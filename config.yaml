@@ -1,0 +1,11 @@
+name: "Chore Trade"
+description: "Multiuser household chore tracking with balanced economy, brownie points and a reward system"
+version: "0.1.0"
+slug: "chore_trade"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
