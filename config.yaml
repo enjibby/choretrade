@@ -1,6 +1,6 @@
 name: "Chore Trade"
 description: "Multiuser household chore tracking with balanced economy, brownie points and a reward system"
-version: "0.1.00002"
+version: "0.1.00003"
 slug: "choretrade"
 init: false
 arch:
