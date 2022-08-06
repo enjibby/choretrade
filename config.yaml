@@ -1,6 +1,6 @@
 name: "Chore Trade"
 description: "Multiuser household chore tracking with balanced economy, brownie points and a reward system"
-version: "0.1.00004"
+version: "0.1.00005"
 slug: "choretrade"
 init: false
 arch:
@@ -12,3 +12,15 @@ arch:
 startup: before
 ports:
   8000/tcp: 8000
+options:
+  beer: true
+  wine: true
+  liquor: false
+  name: "world"
+  year: 2017
+schema:
+  beer: bool
+  wine: bool
+  liquor: bool
+  name: str
+  year: int
