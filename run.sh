@@ -1,4 +1,4 @@
-#!/user/bin/with-contenv bashio
+#!/usr/bin/with-contenv bashio
 
 echo "Hello World!"
 
